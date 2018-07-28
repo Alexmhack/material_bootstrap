@@ -67,3 +67,7 @@ Similarly
 In the first row, we have added mb-4 to both the columns because adding it to one column would have
 worked for our desktop but when the screen becomes shorter our column needs some extra space for 
 responsiveness.
+
+col-md-6 means element covers 6 columns on medium screens
+col-lg-4 means length of 4 columns on wider screen(1200px)
+col-md-12 means full-page width on medium screens
