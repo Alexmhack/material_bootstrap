@@ -49,3 +49,17 @@ In our current project we are changing our footer container from .container-flui
 Our current navbar spread across the whole page, to fix that we can simply contain our whole 
 navbar into a container .container(leaves margin in all sides) .container-fluid(spreads across 
 the whole page width)
+
+# Spacing
+Note: In MDB 1 rem = 16 px
+
+so mdb has many shortforms for adding space to elements for example
+
+.mt-1 means margin-top: 0.25rem or 4px  (16 / 4 = 0.25)
+Similarly
+
+.pt-2 	padding-top: 0.5rem
+.mx-5 	margin left and right 1.25rem
+.my-4 	margin top and bottom 1rem
+.m-4	margin top bottom left right 1rem
+.mr-1	margin-right: 0.25rem
