@@ -4,7 +4,7 @@ designing a website with material bootstrap kit
 Link for tutorial: https://mdbootstrap.com/corporate-website-lesson-1/
 
 # Container
-There are two types of containers one is the simple .container and the other is .container-fluid
+There are two types of containers one is the simple .container(leaves margin in all sides) and the other is .container-fluid(spreads across the whole page width)
 
 # Row
 Just like simple rows, rows in layout are horizontal columns where to split layout horizontally
@@ -41,3 +41,11 @@ Bootstrap provides card for almost everything, checkout the card docs for more d
 # Footer
 I cannot find footer base code on mdbootstrap.com, but the tutorial has the code
 link: https://mdbootstrap.com/corporate-website-lesson-2/
+
+# Slight Changes
+In our current project we are changing our footer container from .container-fluid to just 
+.container because that suits well for our project
+
+Our current navbar spread across the whole page, to fix that we can simply contain our whole 
+navbar into a container .container(leaves margin in all sides) .container-fluid(spreads across 
+the whole page width)
