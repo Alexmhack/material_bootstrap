@@ -30,3 +30,7 @@ The responsive class for image is the .img-fluid
 To give more visual effects like a subtle shadow and hover and wave effect, we have to wrap our 
 image tag in divs with certain classes like .view .overlay .z-depth-1-half and our image should 
 have this class .card-img-top and an another div inside the first div but after our image
+
+# Button
+We can make any link a button by simply adding the class .btn and then to add descriptive colors
+we have .btn-primary .btn-danger etc. you can look for whole button docs on mdbootstrap.com
