@@ -63,3 +63,7 @@ Similarly
 .my-4 	margin top and bottom 1rem
 .m-4	margin top bottom left right 1rem
 .mr-1	margin-right: 0.25rem
+
+In the first row, we have added mb-4 to both the columns because adding it to one column would have
+worked for our desktop but when the screen becomes shorter our column needs some extra space for 
+responsiveness.
