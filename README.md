@@ -26,3 +26,7 @@ cols inside it
 # Image
 For a good website we can add image in one column and some button text in the column next to it
 The responsive class for image is the .img-fluid
+
+To give more visual effects like a subtle shadow and hover and wave effect, we have to wrap our 
+image tag in divs with certain classes like .view .overlay .z-depth-1-half and our image should 
+have this class .card-img-top and an another div inside the first div but after our image
