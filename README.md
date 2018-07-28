@@ -37,3 +37,7 @@ we have .btn-primary .btn-danger etc. you can look for whole button docs on mdbo
 
 # Card
 Bootstrap provides card for almost everything, checkout the card docs for more details
+
+# Footer
+I cannot find footer base code on mdbootstrap.com, but the tutorial has the code
+link: https://mdbootstrap.com/corporate-website-lesson-2/
