@@ -18,3 +18,7 @@ make complete 12 columns
 .col-md-7		.col-md-5
 .col-md-6		.col-md-6
 .col-md-4		.col-md-4		.col-md-4
+.col-md-3		.col-md-3		.col-md-3		.col-md-3
+
+To make the column layout work you need to use the either of the containers first and the rows and 
+cols inside it
