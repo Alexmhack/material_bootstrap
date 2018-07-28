@@ -22,3 +22,7 @@ make complete 12 columns
 
 To make the column layout work you need to use the either of the containers first and the rows and 
 cols inside it
+
+# Image
+For a good website we can add image in one column and some button text in the column next to it
+The responsive class for image is the .img-fluid
